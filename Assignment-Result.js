@@ -1,0 +1,4 @@
+let a =10;
+let b = 1 + (a*=2);
+console.log(a);
+console.log(b);

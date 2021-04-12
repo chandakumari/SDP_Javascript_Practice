@@ -1,0 +1,12 @@
+if("0"){
+    console.log("Hello");
+}
+else{
+    console.log("Hi");
+}
+if(0){
+    console.log("Hello");
+}
+else{
+    console.log("Hi");
+}
